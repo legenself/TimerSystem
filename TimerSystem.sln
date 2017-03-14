@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerSystem", "TimerSystem\TimerSystem.csproj", "{EC80ADEF-477B-42A6-9297-A4E77D3FE851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicUtil", "DynamicUtil\DynamicUtil.csproj", "{54E2F4B3-3B4B-4BC6-96E3-412379755B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC80ADEF-477B-42A6-9297-A4E77D3FE851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC80ADEF-477B-42A6-9297-A4E77D3FE851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC80ADEF-477B-42A6-9297-A4E77D3FE851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC80ADEF-477B-42A6-9297-A4E77D3FE851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E2F4B3-3B4B-4BC6-96E3-412379755B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E2F4B3-3B4B-4BC6-96E3-412379755B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E2F4B3-3B4B-4BC6-96E3-412379755B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E2F4B3-3B4B-4BC6-96E3-412379755B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
